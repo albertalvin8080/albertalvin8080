@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My objective is to become astonishingly great at what I like.</h2>
+<h2 align="left">My objective is to become astonishingly great at what I like to do.</h2>
 
 ###
 
