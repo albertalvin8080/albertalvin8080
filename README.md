@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">Known technologies:</h3>
+<h3 align="left">Known Technologies:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
   <img width="12" />
