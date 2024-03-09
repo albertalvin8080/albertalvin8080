@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Main Interests:</h3>
+<h3 align="left">Main Interest:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
