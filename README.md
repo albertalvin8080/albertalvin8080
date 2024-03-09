@@ -1,4 +1,4 @@
-<h1 align="left">Greetings. I'm Albert Alvin.</h1>
+<h1 align="left">Greetings! I'm Albert Alvin.</h1>
 
 ###
 
