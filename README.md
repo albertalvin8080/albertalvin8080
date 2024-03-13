@@ -8,7 +8,7 @@
 
 <!-- <img align="center" alt="java" src="" height="35" /> -->
 
-<h2 align="left">Main Interests:</h2>
+<h2 align="left">🔎 Main Interests:</h2>
 <div align="left">
   <img alt="java" src="https://img.shields.io/badge/Java-b51f1f?style=for-the-badge&logo=openjdk&logoColor=white" height="40" />
   <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" />
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Known Technologies:</h2>
+<h2 align="left">💾 Known Technologies:</h2>
 <div align="left">
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
   <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
