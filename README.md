@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My objective is to become astonishingly great at what I like to do. That is, programming and solving problems, all of them, until there're more to solve again.</p>
+<p align="left">My objective is to become astonishingly great at what I like to do. That is, programming and solving problems. All of them, until there're more to solve again.</p>
 
 ###
 
