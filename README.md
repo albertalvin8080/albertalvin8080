@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My objective is to become astonishingly great at what I like to do. That is, programming and solving problems, all of them, until there're more to solve again.</p>
+<p align="left">My objective is to become astonishingly great at what I like to do. That is, programming and solving problems, all of them, until there are more to solve again.</p>
 
 ###
 
@@ -42,9 +42,11 @@
 
 ###
 
-<hr>
 
+<h2 align="left">:bar_chart: Github Stats:</h2>
 <div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=AlbertAlvin8080&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="225" alt="trophy graph"  />
+  <img width="5" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertAlvin8080&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false&order=2&hide=html,css" height="225" alt="languages graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=AlbertAlvin8080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=320&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 </div>
