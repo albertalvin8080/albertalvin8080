@@ -1,7 +1,6 @@
-<h1 align="left">Greetings! I'm Albert Alvin.</h1>
+<h1 align="left">Hello! I'm Albert Alvin.</h1>
 
 ###
-
 <p align="left">My objective is to become astonishingly great at what I like to do. That is, programming and solving problems, all of them, until there are more to solve again.</p>
 
 ###
@@ -17,7 +16,7 @@
 
 ###
 
-<h2 align="left">💾 Known Technologies:</h2>
+<h2 align="left">:computer: Skills:</h2>
 <div align="left">
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
   <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
