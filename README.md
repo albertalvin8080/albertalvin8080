@@ -1,6 +1,7 @@
 <h1 align="left">Hello! I'm Albert Alvin.</h1>
 
 ###
+<h3>About Me</h3>
 <p align="left">My objective is to become astonishingly great at what I like to do. That is, programming and solving problems, all of them, until there are more to solve again.</p>
 
 ###
