@@ -23,6 +23,7 @@
   <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307355e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="30" />
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30" />
+  <img alt="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="30" />
   <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" />
   <img alt="java" src="https://img.shields.io/badge/Java-b51f1f?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="30" />
