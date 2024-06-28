@@ -11,7 +11,8 @@
 <h2 align="left">🔎 Main Interests:</h2>
 <div align="left">
   <img alt="java" src="https://img.shields.io/badge/Java-b51f1f?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
-  <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35" />
+  <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="35" />
+<!--   <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35" /> -->
   <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="35" />
 </div>
 
@@ -49,6 +50,6 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=AlbertAlvin8080&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="225" alt="trophy graph"  />
   <img width="5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertAlvin8080&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false&order=2&hide=html,css,smarty" height="225" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertAlvin8080&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false&order=2&hide=html,css,smarty" height="225" alt="languages graph"  /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=AlbertAlvin8080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=320&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 </div>
