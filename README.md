@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">:computer: Skills:</h2>
+<h2 align="left">:computer: Tech Stack:</h2>
 <div align="left">
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
   <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
