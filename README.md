@@ -2,7 +2,7 @@
 
 ###
 <h3>About Me</h3>
-<p align="left">My objective is to become an expert at what I like to do. That is, programming and solving problems, all of them, until there are more to solve again.</p>
+<p align="left">The correct tool for the right task. Yep, that's it.</p>
 
 ###
 
@@ -40,6 +40,7 @@
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" />
   <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" />
   <img alt="cplusplus" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" />
+  <img alt="rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="30" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" />
 <!--   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" /> -->
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
