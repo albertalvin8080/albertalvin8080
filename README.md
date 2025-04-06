@@ -2,7 +2,7 @@
 
 ###
 <h3>About Me</h3>
-<p align="left">The correct tool for the right task. Yep, that's it.</p>
+<p align="left">The correct tool for the right task.</p>
 
 ###
 
