@@ -64,7 +64,7 @@
 
 <h2 align="left">:bar_chart: Github Stats:</h2>
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=AlbertAlvin8080&title=-Stars,-Followers,-Reviews&theme=dracula&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlbertAlvin8080&title=-Stars,-Followers,-Experience&theme=dracula&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
 <!--   <img src="https://github-profile-trophy.vercel.app?username=AlbertAlvin8080&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="225" alt="trophy graph"  /> -->
   <img width="5" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertAlvin8080&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false&order=2&hide=html,css,smarty" height="225" alt="languages graph"  /> -->
