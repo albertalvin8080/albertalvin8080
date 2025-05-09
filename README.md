@@ -10,9 +10,10 @@
 
 <h2 align="left">🔎 Main Interests:</h2>
 <div align="left">
-  <img alt="java" src="https://img.shields.io/badge/Java-b51f1f?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
+  <img alt="java" src="https://img.shields.io/badge/Java-b51f1f?style=for-the-badge&logo=openjdk&logoColor=white&color=orange" height="35" />
 <!--   <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35" /> -->
-  <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="35" /> 
+  <img alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="35" />
+<!--   <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="35" />  -->
   <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="35" />
 </div>
 
